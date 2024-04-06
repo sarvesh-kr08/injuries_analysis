@@ -1,6 +1,2 @@
-# player_injuries
-# injuries_analysis
-# injuries_analysis
-# heollo
-# heollo
-# injuries_analysis
+Its an analysis of the players' injuries or future injuries
+pandas and numpy is being used along with matplotlib and plotly for visulization
